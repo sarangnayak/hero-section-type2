@@ -48,7 +48,7 @@ Licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ## 🧾 Credits
 
-Created by **[Your Name / sarangnayak]**.
+Created by **[Sarang Nayak]**.
 
 ---
 
