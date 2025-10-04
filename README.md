@@ -3,7 +3,7 @@
 
 ## 🚀 Live Demo
 
-👉 *(If hosted somewhere — insert link here)*  
+👉 *(https://sarangnayak.github.io/hero-section-type2/)*  
 
 ---
 
