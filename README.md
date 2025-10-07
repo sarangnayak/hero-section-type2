@@ -7,6 +7,10 @@
 
 ---
 
+(./preview.png)
+
+---
+
 ## 🛠️ How to Use / Customize
 
 1. **Clone or download** the repo  
