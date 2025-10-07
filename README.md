@@ -7,7 +7,7 @@
 
 ---
 
-(./preview.png)
+> ![Morse Code Generator Screenshot](./preview.png)
 
 ---
 
